@@ -1,6 +1,7 @@
 const biscuits = {
     sagheTalaii: 4500, // ساقه طلایی
     sagheTalaiiShokolati: 5500, // ساقه طلایی شکلاتی
+    sagheTalaiiWithToot: 6000, // ساقه طلایی با شهد توت
     petiBour: 2000, // پتی بور
     digestive: 5000, // دایجستیو
     madar: 2500, // مادر
