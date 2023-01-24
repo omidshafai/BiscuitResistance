@@ -5,6 +5,7 @@ const biscuits = {
     petiBour: 2000, // پتی بور
     digestive: 5000, // دایجستیو
     madar: 2500, // مادر
+    samakOili: 2500, // سامک روغنی
 }
 
 function getBiscuitResistance(biscuitName) {
