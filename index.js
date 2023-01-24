@@ -1,3 +1,11 @@
+/**
+TODO:
+Test HiBye
+Test Setak
+Test petiBour of different manufacturers
+Test Farkhondeh
+*/
+
 const biscuits = {
     sagheTalaii: 4500, // ساقه طلایی
     sagheTalaiiShokolati: 5500, // ساقه طلایی شکلاتی
