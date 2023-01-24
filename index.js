@@ -1,9 +1,9 @@
 const biscuits = {
-    sagheTalaii: 4500,
-    sagheTalaiiShokolati: 5500,
-    petiBour: 2000,
-    digestive: 5000,
-    madar: 2500
+    sagheTalaii: 4500, // ساقه طلایی
+    sagheTalaiiShokolati: 5500, // ساقه طلایی شکلاتی
+    petiBour: 2000, // پتی بور
+    digestive: 5000, // دایجستیو
+    madar: 2500, // مادر
 }
 
 function getBiscuitResistance(biscuitName) {
